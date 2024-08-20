@@ -1,6 +1,6 @@
 Trabalho da materia de SOA e sistemas distribuidos 
 
-Combase no livro - SOA_aplicado_Integrando_com_web
+Com base no livro - SOA_aplicado_Integrando_com_web, no livro temos o exemplo de um sistema de biblioteca onde temos as principais classes Autor e Livros já nesse repossitorio temos as principais classes Desenvolvedores e jogos simulando uma coleção de jogos, o relacionando esta para um jogo tem vairos desenvolvedores(1 - n) assim como no exemplo temos um livro para varios autores.
 
 ATIVIDADE
 
